@@ -1,4 +1,5 @@
 ## Hi there 👋
+![gif_wakas](https://github.com/user-attachments/assets/713e1477-2feb-4d1d-9529-d18496edddc0)
 
 <!--
 **AbiieWakas/AbiieWakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
